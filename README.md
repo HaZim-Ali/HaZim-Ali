@@ -2,11 +2,15 @@
 
 QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
-- 🔭 I’m currently working on automation frameworks using Selenium and Cucumber and TestNG.
-- 🌱 I’m learning advanced reporting techniques and CI/CD tools.
-- 💬 Ask me about manual and automation testing for websites.
-- 📫 How to reach me: **hazimaly5@gmail.com**
-- 😄 Fun fact: I enjoy exploring new QA tools and methods.
+![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
+
+- 🔭 I’m currently working on [Automation Frameworks](https://github.com/HaZim-Ali?tab=repositories)
+- 🌱 I’m learning CI/CD pipelines and advanced testing tools.
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/HaZim-Ali)
+- 💬 Ask me about Selenium, TestNG, API testing, and automation frameworks.
+- 📫 Reach me at **hazimaly5@gmail.com**
+- ⚡ Fun fact: I love exploring new testing methodologies!
+
 
 ---
 
