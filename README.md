@@ -3,6 +3,9 @@
 QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
+## Achievements
+
+![First Commit Trophy](path/to/first-commit-trophy.png) First Commit!
 
 - 🔭 I’m currently working on [Automation Frameworks](https://github.com/HaZim-Ali?tab=repositories)
 - 🌱 I’m learning CI/CD pipelines and advanced testing tools.
