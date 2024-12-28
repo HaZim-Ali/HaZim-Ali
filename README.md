@@ -3,6 +3,9 @@
 QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
+| Pull Request | Experience | Stars | Commits | Followers | Repositories | Issues | Reviews |
+|---|---|---|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/pull_request.png" alt="Pull Request Trophy" width="60"> <br> Your Pull Requests Text | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/experience.png" alt="Experience Trophy" width="60"> <br> Your Experience Text | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/stars.png" alt="Stars Trophy" width="60"> <br> Your Stars Value | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/commits.png" alt="Commits Trophy" width="60"> <br> Your Commits Value | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/followers.png" alt="Followers Trophy" width="60"> <br> Your Followers Value | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/repositories.png" alt="Repositories Trophy" width="60"> <br> Your Repositories Value | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/issues.png" alt="Issues Trophy" width="60"> <br> Your Issues Value | <img src="https://raw.githubusercontent.com/HaZim-Aly/HaZim-Aly/main/images/reviews.png" alt="Reviews Trophy" width="60"> <br> Your Reviews Value |
 
 
 
