@@ -3,17 +3,7 @@
 QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
-## Achievements
 
-Here are some of my achievements and contributions:
-
-| Category        | Trophy/Badge                                     | Description                                     |
-|-----------------|-------------------------------------------------|-------------------------------------------------|
-| First Commit    | ![First Commit](https://img.shields.io/badge/First%20Commit-Green?style=for-the-badge) | Made my first commit to a repository!          |
-| Open Source     | ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Blue?style=for-the-badge&logo=github) | Contributed to open-source projects.          |
-| 100 Commits     | ![100 Commits](https://img.shields.io/badge/100%20Commits-Yellow?style=for-the-badge) | Reached 100 commits!                            |
-| Profile Views   | ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue) | Number of times my profile has been viewed.  |
-| Learning Python | ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | Learning and using Python.                 |
 
 
 - 🔭 I’m currently working on [Automation Frameworks](https://github.com/HaZim-Ali?tab=repositories)
