@@ -3,9 +3,7 @@
 QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
-| Pull Request | Experience | Stars | Commits | Followers | Repositories | Issues | Reviews |
-|---|---|---|---|---|---|---|---|
-| <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='60'%3E%3Cpath fill='green' d='M12 2L4.5 20.29l.71.71L12 18l6.79 3 .71-.71z'/%3E%3C/svg%3E" alt="Pull Request" width="60"> <br> Contributing | <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='60'%3E%3Cpath fill='blue' d='M12 2L1 21h22z'/%3E%3C/svg%3E" alt="Experience" width="60"> <br> Learning | ... (Use similar inline SVGs for the rest)
+
 
 
 
