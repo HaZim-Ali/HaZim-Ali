@@ -13,6 +13,7 @@ QA Testing Engineer | Passionate about automation testing and delivering bug-fre
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/HaZim-Ali)
 - 💬 Ask me about **Selenium**, **TestNG**, **API testing**, **Cucumber** and automation frameworks.
 - 📫 Reach me at **hazimaly5@gmail.com**
+- 📄 My CV to know more about my experiences **https://drive.google.com/drive/folders/1fak96ljRWGGKt3o7Dohf0-operkUKk1c**
 - ⚡ Fun fact: I love exploring new testing methodologies!
 
 
