@@ -7,6 +7,10 @@ QA Testing Engineer | Passionate about automation testing and delivering bug-fre
 
 
 
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
+
 
 - 🔭 I’m currently working on [Automation Frameworks](https://github.com/HaZim-Ali?tab=repositories)
 - 🌱 I’m learning CI/CD pipelines and advanced testing tools.
