@@ -1,6 +1,6 @@
 # Hi, I'm HaZim Aly! 👋
 
-QA Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
+QA/QC Software Testing Engineer | Passionate about automation testing and delivering bug-free experiences.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HaZim-Ali&style=flat-square)
 
@@ -46,6 +46,10 @@ QA Testing Engineer | Passionate about automation testing and delivering bug-fre
 ![Json](https://img.shields.io/badge/Json-E56B2F?style=for-the-badge&logo=json&logoColor=white)
 ![Xml](https://img.shields.io/badge/Xml-FF0000?style=for-the-badge&logo=xml&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-緑-green?style=for-the-badge&logo=excel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium_Inspector-662D91?style=for-the-badge&logo=appium&logoColor=white)
 
 
 
